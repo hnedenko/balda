@@ -1,2 +1,5 @@
+from balda import *
+
+
 if __name__ == "__main__":
-    print('hi!')
+    balda = balda.Balda()
